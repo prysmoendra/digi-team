@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Tanggal Pengerjaan : 16 April 2025
+    Nama    : Fajar Krismahendra Bintang Pangestu
+    NIM     : 10122322
+    Kelas   : ANDROID - 4
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/green50" />
+    <corners android:radius="8dp" />
+</shape>
